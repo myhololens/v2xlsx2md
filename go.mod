@@ -1,4 +1,4 @@
-module github.com/emicklei/xlsx2md
+module github.com/myhololens/v2xlsx2md
 
 go 1.17
 
